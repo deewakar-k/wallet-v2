@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@wallet/db": "*",
     "@wallet/ui": "*",
     "@types/bcrypt": "^5.0.2",
     "@wallet/store": "*",
